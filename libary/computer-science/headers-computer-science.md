@@ -1,2 +1,2 @@
-[ООП](oop/oop.md)
-[Паттерны](patterns/patterns.md);
+[ООП](oop.md)
+[Паттерны](patterns.md);
