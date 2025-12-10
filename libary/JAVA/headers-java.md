@@ -1,1 +1,1 @@
-[Знакомство](introduction.md)
+- [Знакомство](introduction.md)

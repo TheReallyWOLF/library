@@ -1,2 +1,3 @@
-[ООП](oop.md)
-[Паттерны](patterns.md);
+- [ООП](oop.md);
+- [Паттерны](patterns.md);
+- [Назад](../headers-main.md);

@@ -1,1 +1,2 @@
-[Обработка ошибок рендеринга Error Boundary](handling-rendering-errors.md)
+- [Обработка ошибок рендеринга Error Boundary](handling-rendering-errors.md);
+- [Поппулярные метрики](metrics.md);

@@ -1,4 +1,4 @@
-[JAVA](JAVA/headers-java.md);
-[JS](JS/headers-js.md);
-[Computer Science](computer-science/headers-computer-science.md);
-[Оптимизация и работа с ошибками](optimization-troubleshooting/headers-optimization-troubleshooting-science.md)
+- [JAVA](JAVA/headers-java.md);
+- [JS](JS/headers-js.md);
+- [Computer Science](computer-science/headers-computer-science.md);
+- [Оптимизация, метрики и работа с ошибками](optimization-troubleshooting/headers-optimization-troubleshooting-science.md);
