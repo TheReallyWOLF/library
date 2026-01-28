@@ -1,2 +1,3 @@
-[Знакомство c JS](introduction.md); </br>
-[Проодвинутый JS](advansed.md); </br>
+- [Знакомство c JS](introduction.md);
+- [Проодвинутый JS](advansed.md);
+- [Назад](../headers-main.md);
